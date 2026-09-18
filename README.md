@@ -370,7 +370,6 @@ Licencia: CC BY 4.0
 Profesor de Informática en el IES Hermenegildo Lanz (Granada).
 
 - GitHub: [nachocabrero](https://github.com/nachocabrero)
-- Empresa: [Vertigo Apps](https://github.com/vertigoapps) - Desarrollo de soluciones software e implementación de IA
 
 ---
 
